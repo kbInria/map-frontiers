@@ -23,6 +23,6 @@
     local-name: protobuf_catkin
     uri: https://github.com/ethz-asl/protobuf_catkin.git
 - git:
-    local-name: voxfield
-    uri: https://github.com/VIS4ROB-lab/voxfield.git
+    local-name: map-frontiers
+    uri: https://github.com/BSportich/map-frontiers.git
 
